@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/XP-TN/XPTNNBOTV
+> git clone https://github.com/iyandzz/Y4NDZBOTV1
 ```
 
 ```bash
